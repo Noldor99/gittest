@@ -1,0 +1,14 @@
+#header {
+  width: 1437px;
+  margin: 0 auto;
+  background: #080808; }
+  #header .wrap_header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-wrap: wrap; }
+    #header .wrap_header .logo {
+      height: 100px; }
+    #header .wrap_header .header_centr {
+      display: flex; }
+
+/*# sourceMappingURL=style.css.map */
